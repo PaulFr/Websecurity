@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9-_]+)\.min\.css$ cssmin.php?r=$1.css [L]

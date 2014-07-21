@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Tue Oct 04 19:07:43 +0000 2011</created_at>
+  <id>121300483821412352</id>
+  <text>Comme dirait Gillian Head, &quot;j'ai mal &#224; la voix&quot;!</text>
+  <source>&lt;a href=&quot;http://ifttt.com&quot; rel=&quot;nofollow&quot;&gt;ifttt&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>327378351</id>
+    <name>Fawliet</name>
+    <screen_name>Fawliet</screen_name>
+    <location>France</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>9bed2f</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>17</friends_count>
+    <created_at>Fri Jul 01 13:29:20 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>22</statuses_count>
+    <lang>fr</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>false</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Oct 03 18:52:47 +0000 2011</created_at>
+  <id>120934337494532096</id>
+  <text>&quot;Find your freedom in the music, find your Jesus, find your Kubrick.&quot;</text>
+  <source>&lt;a href=&quot;http://ifttt.com&quot; rel=&quot;nofollow&quot;&gt;ifttt&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>327378351</id>
+    <name>Fawliet</name>
+    <screen_name>Fawliet</screen_name>
+    <location>France</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>9bed2f</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>17</friends_count>
+    <created_at>Fri Jul 01 13:29:20 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>22</statuses_count>
+    <lang>fr</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>false</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sat Oct 01 09:58:22 +0000 2011</created_at>
+  <id>120075070621229057</id>
+  <text>@MonsieurDream J'attends de voir &#231;a avec impatience. :)</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>120074921970892800</in_reply_to_status_id>
+  <in_reply_to_user_id>6661522</in_reply_to_user_id>
+  <in_reply_to_screen_name>MonsieurDream</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>327378351</id>
+    <name>Fawliet</name>
+    <screen_name>Fawliet</screen_name>
+    <location>France</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>9bed2f</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>17</friends_count>
+    <created_at>Fri Jul 01 13:29:20 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>22</statuses_count>
+    <lang>fr</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>false</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Sep 30 22:47:31 +0000 2011</created_at>
+  <id>119906244369723392</id>
+  <text>@maxime Petite question, y'a moyen d'en savoir + sur tweetclub.org ? :D</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id>5774132</in_reply_to_user_id>
+  <in_reply_to_screen_name>maxime</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>327378351</id>
+    <name>Fawliet</name>
+    <screen_name>Fawliet</screen_name>
+    <location>France</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1474978870/faw_normal.png</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>3</followers_count>
+    <profile_background_color>1A1B1F</profile_background_color>
+    <profile_text_color>666666</profile_text_color>
+    <profile_link_color>9bed2f</profile_link_color>
+    <profile_sidebar_fill_color>252429</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>181A1E</profile_sidebar_border_color>
+    <friends_count>17</friends_count>
+    <created_at>Fri Jul 01 13:29:20 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme9/bg.gif</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>22</statuses_count>
+    <lang>fr</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>false</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>
